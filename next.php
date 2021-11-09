@@ -1,4 +1,0 @@
-OFFICE
-
-WINDOWS
-
